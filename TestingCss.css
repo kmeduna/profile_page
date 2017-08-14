@@ -1,0 +1,45 @@
+/* Comments in css
+this is your css file and css goes here*/
+
+h1 {
+  color:#AD6EE2;
+  font-family: 'Open Sans Condensed';
+  font-size: 30px;
+}
+p {
+  color: Aqua;
+  font-family: 'Verdana';
+  font-size: 20px;
+}
+
+li {
+  color:lightgreen;
+}
+
+.first_list {
+  color:Aqua;
+  font-size: 20px;
+}
+
+.second_list{
+  color:Aqua;
+  font-size: 20px;
+}
+
+.third_list{
+  color:Aqua;
+  font-size: 20px;
+}
+
+#pic{
+  height: 400px;
+}
+.myImage {
+  float: left;
+  height: 550px;
+  width: 275px;
+  font-family: Veranda;
+}
+.heading {
+  float:right;
+}
